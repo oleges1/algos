@@ -1,5 +1,5 @@
 # algos
-Algorithms implemented on C++
+Algorithms and structures implemented on C++
 
 trees:
 
