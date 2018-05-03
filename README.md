@@ -1,9 +1,7 @@
 # algos
 Algorithms implemented on C++
 
-Some basic algorithms:
-
-- trees
+trees:
 
 * Red-Black tree
 
